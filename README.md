@@ -8,18 +8,19 @@
 
 <div align="center">
 
-> [![Version badge](https://img.shields.io/badge/version-0.2.9-silver.svg)]()
+> [![Version badge](https://img.shields.io/badge/version-0.3.0-silver.svg)]()
 [![Class](https://img.shields.io/badge/class-software_engineer-silver.svg)]()
+[![next_release](https://img.shields.io/badge/next_release-04/09-silver.svg)]()
 
 *Skillset*:
 
 >[![Python](https://img.shields.io/badge/python-green.svg)]()
 [![GraphQl Badge](https://badgen.net/badge/icon/graphql/pink?icon=graphql&label)]()
-[![Github](https://badgen.net/badge/git/github?icon=github&color=cyan)]()
+[![Github](https://badgen.net/badge/git/hub?icon=github&color=cyan)]()
 ![docker badge](https://badgen.net/badge/icon/docker?icon=docker&label)
 [![ML](https://img.shields.io/badge/AI-Machine_Learning-green.svg)]()
 [![ML](https://img.shields.io/badge/AI-NLP-yellow.svg)]()
-![Discord](https://badgen.net/badge/icon/bots?icon=discord&label&color=purple)
+![Discord](https://badgen.net/badge/icon/discord_bots?icon=discord&label&color=purple)
 ![git](https://badgen.net/badge/icon/git?icon=git&label&color=orange)
 ![gitlab](https://badgen.net/badge/icon/gitlab?icon=gitlab&label&color=orange)
 ![OSX](https://badgen.net/badge/icon/OSX?icon=apple&label&color=black)
