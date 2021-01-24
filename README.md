@@ -43,6 +43,6 @@
 
 [![brunolcarli's github stats](https://github-readme-stats.vercel.app/api?username=brunolcarli&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-
+![](https://github-profile-trophy.vercel.app/?username=brunolcarli&theme=dracula)
 
 </div>
