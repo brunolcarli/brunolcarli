@@ -45,4 +45,7 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=brunolcarli&theme=dracula)
 
+![](https://images.youracclaim.com/size/110x110/images/53caf8cc-b5e9-4424-b4a7-7b069fa13db4/Machine_Learning_with_Python.png)
+
 </div>
+
