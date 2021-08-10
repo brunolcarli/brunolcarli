@@ -44,7 +44,7 @@ I run a Discord server with focus on AI discussions and development. It is a pio
 
 *Donations*:
 
-As a developer i like to develop and run open software, such as bots and useful APIs on the cloud. But as they're free of charge i pay for myself for VPS services to keep the services running. 
+As a developer i like to develop and run open software, such as bots and useful APIs on the cloud. But as they're not free of charge, i pay for myself for VPS services to keep the services running. 
 if in any way, someday, any of my services helped you in any way and you want to contribute with any amount (even a cup of coffee or a slice of pizza), feel free to contribute with any donation:
 
 [![Donate](https://badgen.net/badge/icon/buymeacoffee?icon=buymeacoffee&label)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=PPYA5P239NRML&currency_code=USD&source=url)
