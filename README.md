@@ -42,6 +42,15 @@ I run a Discord server with focus on AI discussions and development. It is a pio
 
 <hr />
 
+Portfolio
+
+I have an interactive game portfolio in which you play as me in my house, can you be me for a while and find some projects i hid in my house?
+
+play it for free: https://brunolcarli.github.io/portfolio/
+
+<hr />
+
+
 *Donations*:
 
 As a developer i like to develop and run open software, such as bots and useful APIs on the cloud. But as they're not free of charge, i pay for myself for VPS services to keep the services running. 
