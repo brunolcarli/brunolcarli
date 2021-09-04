@@ -48,6 +48,9 @@ I have an interactive game portfolio in which you play as me in my house, can yo
 
 play it for free: https://brunolcarli.github.io/portfolio/
 
+<img src="https://i.ibb.co/Sw22v27/pt.gif" align="center" width="500" alt="Project icon">
+
+
 <hr />
 
 
