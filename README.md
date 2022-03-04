@@ -36,7 +36,7 @@
 
 *My community:*
 
-I run a Discord server with focus on AI discussions and development. It is a pioneer AI brazilian community on Discord and we will be very happy to see you there. Come join us, let us talk about software and have a cup of coffee. 
+I run a Discord server with focus on AI discussions and software development. It is a pioneer AI brazilian community on Discord and we will be very happy to see you there. Come join us, let us talk about software and have a cup of coffee. 
 
 [![luci discord invite](https://images-ext-1.discordapp.net/external/R7TLwQMlKvsfpY1HWRweTUJ3J_Jb_1uaVGsKYNo6wQo/https/i.ibb.co/BK4nwVw/luci-nvt.gif)](https://discord.gg/kmSxzWG)
 
