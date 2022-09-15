@@ -8,7 +8,7 @@
 
 <div align="center">
 
-> [![Version badge](https://img.shields.io/badge/version-0.3.1-silver.svg)]()
+> [![Version badge](https://img.shields.io/badge/version-0.3.2-silver.svg)]()
 [![Class](https://img.shields.io/badge/class-software_engineer-silver.svg)]()
 [![next_release](https://img.shields.io/badge/next_release-04/09-silver.svg)]()
 
