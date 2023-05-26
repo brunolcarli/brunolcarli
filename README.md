@@ -56,12 +56,12 @@ play it for free: https://brunolcarli.github.io/portfolio/
 
 *Donations*:
 
-As a developer i like to develop and run open software, such as bots and useful APIs on the cloud. But as they're not free of charge, i pay for myself for VPS services to keep the services running. 
-if in any way, someday, any of my services helped you in any way and you want to contribute with any amount (even a cup of coffee or a slice of pizza), feel free to contribute with any donation:
+As a developer I like to develop and run open software, such as bots and useful APIs deployed to the cloud as service for public use by everyone. But as most hostig services as not free of charge, I pay for myself for VPS services to keep the services running.
+if in any way, someday, any of my services helped you in any way and you want to contribute with any amount (even a cup of coffee or a slice of pizza), feel free to contribute with any donation by clicking on sponsor button at the top of this Github or at the badge bellow: 
 
-[![Donate](https://badgen.net/badge/icon/buymeacoffee?icon=buymeacoffee&label)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=PPYA5P239NRML&currency_code=USD&source=url)
+[![Sponsor](https://badgen.net/badge/icon/buymeacoffee?icon=buymeacoffee&label)](https://nubank.com.br/pagar/1q376/7A1NUaevBl)
 
-
+❤️
 
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f96504f4-de0b-4e1a-9f8a-23cf3113f2c0/dcojb8h-708d3b86-c11c-4a4a-8094-c8113fd52a7e.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvZjk2NTA0ZjQtZGUwYi00ZTFhLTlmOGEtMjNjZjMxMTNmMmMwXC9kY29qYjhoLTcwOGQzYjg2LWMxMWMtNGE0YS04MDk0LWM4MTEzZmQ1MmE3ZS5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.Zjq4QngUjoh0qPyS_FliQW3b7GqTJytUqIqaLw1tHwM" align="center" width="100" alt="Project icon">
 
